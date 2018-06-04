@@ -16,9 +16,9 @@ KNN - [K Nearest Neighbours](https://github.com/brianraila/csc323_ml_toolkit_gro
 
 ##### Code written by : 
 
-[Brian Raila](https://github.com/brianraila)
-[Steve Odhiambo](https://github.com/SteveOdhiambo)
-[Rosianah](https://github.com/Rosianah)
-[Macie Kwambai](https://github.com/macie-kwambai)
-[Lewis Munyi](https://github.com/lewis-munyi)
+[Brian Raila](https://github.com/brianraila)\
+[Steve Odhiambo](https://github.com/SteveOdhiambo)\
+[Rosianah](https://github.com/Rosianah)\
+[Macie Kwambai](https://github.com/macie-kwambai)\
+[Lewis Munyi](https://github.com/lewis-munyi)\
 
