@@ -20,5 +20,5 @@ KNN - [K Nearest Neighbours](https://github.com/brianraila/csc323_ml_toolkit_gro
 [Steve Odhiambo](https://github.com/SteveOdhiambo)\
 [Rosianah](https://github.com/Rosianah)\
 [Macie Kwambai](https://github.com/macie-kwambai)\
-[Lewis Munyi](https://github.com/lewis-munyi)\
+[Lewis Munyi](https://github.com/lewis-munyi)
 
